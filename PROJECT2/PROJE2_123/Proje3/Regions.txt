@@ -1,0 +1,7 @@
+Antalya,Burdur,Isparta,Mersin,Adana,Hatay,Osmaniye,Kahramanmaraþ
+Malatya,Erzincan,Elazýð,Tunceli,Bingöl,Erzurum,Muþ,Bitlis,Þýrnak,Kars,Aðrý,Ardahan,Van,Iðdýr,Hakkari
+Ýzmir,Aydýn,Muðla,Manisa,Denizli,Uþak,Kütahya,Afyon
+Gaziantep,Kilis,Adýyaman,Þanlýurfa,Diyarbakýr,Mardin,Batman,Siirt
+Eskiþehir,Konya,Ankara,Çankýrý,Aksaray,Kýrýkkale,Kýrþehir,Yozgat,Niðde,Nevþehir,Kayseri,Karaman,Sivas
+Bolu,Düzce,Zonguldak,Karabük,Bartýn,Kastamonu,Çorum,Sinop,Samsun,Amasya,Tokat,Ordu,Giresun,Gümüþhane,Trabzon,Bayburt,Rize,Artvin
+Çanakkale,Balýkesir,Edirne,Tekirdað,Kýrklareli,Ýstanbul,Bursa,Yalova,Kocaeli,Bilecik,Sakarya

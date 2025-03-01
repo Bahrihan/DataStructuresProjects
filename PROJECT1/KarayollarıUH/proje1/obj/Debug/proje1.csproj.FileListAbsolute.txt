@@ -1,0 +1,36 @@
+C:\Users\beyza\source\repos\proje1\proje1\bin\Debug\proje1.exe.config
+C:\Users\beyza\source\repos\proje1\proje1\bin\Debug\proje1.exe
+C:\Users\beyza\source\repos\proje1\proje1\bin\Debug\proje1.pdb
+C:\Users\beyza\source\repos\proje1\proje1\obj\Debug\proje1.csproj.AssemblyReference.cache
+C:\Users\beyza\source\repos\proje1\proje1\obj\Debug\proje1.csproj.SuggestedBindingRedirects.cache
+C:\Users\beyza\source\repos\proje1\proje1\obj\Debug\proje1.csproj.CoreCompileInputs.cache
+C:\Users\beyza\source\repos\proje1\proje1\obj\Debug\proje1.exe
+C:\Users\beyza\source\repos\proje1\proje1\obj\Debug\proje1.pdb
+C:\Users\LENOVO\bahrihan\Masaüstü\C# VS\proje1\proje1\bin\Debug\proje1.exe.config
+C:\Users\LENOVO\bahrihan\Masaüstü\C# VS\proje1\proje1\bin\Debug\proje1.exe
+C:\Users\LENOVO\bahrihan\Masaüstü\C# VS\proje1\proje1\bin\Debug\proje1.pdb
+C:\Users\LENOVO\bahrihan\Masaüstü\C# VS\proje1\proje1\obj\Debug\proje1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\bahrihan\Masaüstü\C# VS\proje1\proje1\obj\Debug\proje1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\bahrihan\Masaüstü\C# VS\proje1\proje1\obj\Debug\proje1.exe
+C:\Users\LENOVO\bahrihan\Masaüstü\C# VS\proje1\proje1\obj\Debug\proje1.pdb
+C:\Users\cagan\Desktop\proje1\proje1\bin\Debug\proje1.exe.config
+C:\Users\cagan\Desktop\proje1\proje1\bin\Debug\proje1.exe
+C:\Users\cagan\Desktop\proje1\proje1\bin\Debug\proje1.pdb
+C:\Users\cagan\Desktop\proje1\proje1\obj\Debug\proje1.csproj.AssemblyReference.cache
+C:\Users\cagan\Desktop\proje1\proje1\obj\Debug\proje1.csproj.CoreCompileInputs.cache
+C:\Users\cagan\Desktop\proje1\proje1\obj\Debug\proje1.exe
+C:\Users\cagan\Desktop\proje1\proje1\obj\Debug\proje1.pdb
+C:\Users\LENOVO\bahrihan\Masaüstü\proje1\proje1\bin\Debug\proje1.exe.config
+C:\Users\LENOVO\bahrihan\Masaüstü\proje1\proje1\bin\Debug\proje1.exe
+C:\Users\LENOVO\bahrihan\Masaüstü\proje1\proje1\bin\Debug\proje1.pdb
+C:\Users\LENOVO\bahrihan\Masaüstü\proje1\proje1\obj\Debug\proje1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\bahrihan\Masaüstü\proje1\proje1\obj\Debug\proje1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\bahrihan\Masaüstü\proje1\proje1\obj\Debug\proje1.exe
+C:\Users\LENOVO\bahrihan\Masaüstü\proje1\proje1\obj\Debug\proje1.pdb
+C:\Users\LENOVO\bahrihan\Masaüstü\C# VS\PROJE1SON\proje1\bin\Debug\proje1.exe.config
+C:\Users\LENOVO\bahrihan\Masaüstü\C# VS\PROJE1SON\proje1\bin\Debug\proje1.exe
+C:\Users\LENOVO\bahrihan\Masaüstü\C# VS\PROJE1SON\proje1\bin\Debug\proje1.pdb
+C:\Users\LENOVO\bahrihan\Masaüstü\C# VS\PROJE1SON\proje1\obj\Debug\proje1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\bahrihan\Masaüstü\C# VS\PROJE1SON\proje1\obj\Debug\proje1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\bahrihan\Masaüstü\C# VS\PROJE1SON\proje1\obj\Debug\proje1.exe
+C:\Users\LENOVO\bahrihan\Masaüstü\C# VS\PROJE1SON\proje1\obj\Debug\proje1.pdb

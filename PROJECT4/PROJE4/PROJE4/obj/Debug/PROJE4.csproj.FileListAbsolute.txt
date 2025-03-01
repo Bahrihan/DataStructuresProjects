@@ -1,0 +1,7 @@
+C:\Users\LENOVO\bahrihan\Masaüstü\C# VS\PROJE4\PROJE4\bin\Debug\PROJE4.exe.config
+C:\Users\LENOVO\bahrihan\Masaüstü\C# VS\PROJE4\PROJE4\bin\Debug\PROJE4.exe
+C:\Users\LENOVO\bahrihan\Masaüstü\C# VS\PROJE4\PROJE4\bin\Debug\PROJE4.pdb
+C:\Users\LENOVO\bahrihan\Masaüstü\C# VS\PROJE4\PROJE4\obj\Debug\PROJE4.csproj.AssemblyReference.cache
+C:\Users\LENOVO\bahrihan\Masaüstü\C# VS\PROJE4\PROJE4\obj\Debug\PROJE4.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\bahrihan\Masaüstü\C# VS\PROJE4\PROJE4\obj\Debug\PROJE4.exe
+C:\Users\LENOVO\bahrihan\Masaüstü\C# VS\PROJE4\PROJE4\obj\Debug\PROJE4.pdb
